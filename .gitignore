@@ -1,0 +1,5 @@
+.gradle/
+.bun/
+node_modules/
+.next/
+*.log
